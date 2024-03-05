@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "variant_id": 1,
+    "name": "Прогноз 1 Вариант 1 Задача 1",
+    "description": "Подробное Прогноз 1 Вариант 1 Задача 1",
+    "status": "new",
+    "type": "работы",
+    "cfo_management_id": 1,
+    "cfo_dispatcher_id": 1,
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  } ,
+  {
+    "id": 2,
+    "variant_id": 1,
+    "name": "Прогноз 1 Вариант 1 Задача 2",
+    "description": "Подробное Прогноз 1 Вариант 1 Задача 2",
+    "status": "new",
+    "type": "сервис",
+    "cfo_management_id": null,
+    "cfo_dispatcher_id": null,
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  },
+  {
+    "id": 3,
+    "variant_id": 2,
+    "name": "Прогноз 1 Вариант 2 Задача 1",
+    "description": "Подробное Прогноз 1 Вариант 2 Задача 1",
+    "status": "new",
+    "type": "работы",
+    "cfo_management_id": 1,
+    "cfo_dispatcher_id": 1,
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  },
+  {
+    "id": 4,
+    "variant_id": 2,
+    "name": "Прогноз 1 Вариант 2 Задача 2",
+    "description": "Подробное Прогноз 1 Вариант 2 Задача 2",
+    "status": "new",
+    "type": "сервис",
+    "cfo_management_id": 1,
+    "cfo_dispatcher_id": 1,
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  }
+]

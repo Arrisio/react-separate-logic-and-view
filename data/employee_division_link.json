@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "employee_id": 1,
+    "division_id": 1,
+    "is_primary": true,
+    "role": "boss"
+  } ,
+  {
+    "id": 2,
+    "employee_id": 2,
+    "division_id": 1,
+    "is_primary": true,
+    "role": "employee"
+  }
+]

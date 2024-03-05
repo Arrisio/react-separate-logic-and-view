@@ -1,0 +1,1 @@
+export {DisplayWithConsoleComponent as DisplayWithConsole} from "./displayWithConsoleComponent"

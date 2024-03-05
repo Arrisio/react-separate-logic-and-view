@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "full_name": "Василий Васильевич",
+    "login": "vasia",
+    "email": "vasia@jet.su",
+    "position": "должность1",
+    "skill_id": 1,
+    "ug_id": 1
+  } ,
+  {
+    "full_name": "Акакий Акакиевич",
+    "login": "kaka",
+    "email": "kaka@jet.su",
+    "position": "должность2",
+    "skill_id": 2,
+    "ug_id": 2
+  }
+]

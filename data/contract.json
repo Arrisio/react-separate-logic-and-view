@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Контракт 1",
+    "summary": "Контракт 1 Summary",
+    "company_id": 1,
+    "customer_manager_id": 1,
+    "head_organization_manager_id": 1,
+    "project_manager_id": 1,
+    "is_internal": true,
+    "is_frame":  false,
+    "parent_id":  null
+  } ,
+  {
+    "id": 2,
+    "name": "Контракт 2",
+    "summary": "Контракт 2 Summary",
+    "company_id": 1,
+    "customer_manager_id": 2,
+    "head_organization_manager_id": 1,
+    "project_manager_id": 1,
+    "is_internal": false,
+    "is_frame":  false,
+    "parent_id":  null
+  }
+]

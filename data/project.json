@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Проект 1",
+    "summary": "Проект 1 Summary",
+    "company_id": 1,
+    "customer_manager_id": 1,
+    "project_manager_id": 1,
+    "contract_id": 2,
+    "date_plan_start": "2019-07-04T13:33:03.969Z",
+    "date_plan_end": "2022-07-04T13:33:03.969Z",
+    "date_fact_start": "2019-07-04T13:33:03.969Z",
+    "date_fact_end": "2022-07-04T13:33:03.969Z"
+  } ,
+  {
+    "id": 2,
+    "name": "Контракт 2",
+    "summary": "Контракт 2 Summary",
+    "company_id": 1,
+    "customer_manager_id": 2,
+    "project_manager_id": 1,
+    "contract_id": 2,
+    "date_plan_start": "2019-07-04T13:33:03.969Z",
+    "date_plan_end": "2022-07-04T13:33:03.969Z",
+    "date_fact_start": "2019-07-04T13:33:03.969Z",
+    "date_fact_end": "2022-07-04T13:33:03.969Z"
+  }
+]

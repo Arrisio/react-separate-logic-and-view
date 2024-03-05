@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Прогноз 1",
+    "hd_task_id": null,
+    "hd_order_id": null,
+    "assignee_id": 1,
+    "customer_manager_id": null,
+    "customer_id": 1,
+    "contract_id": 1,
+    "status": "new",
+    "description": "Подробное описание прогноза"
+  } ,
+  {
+    "id": 2,
+    "name": "Прогноз 2",
+    "hd_task_id": "TASK0012345",
+    "hd_order_id": null,
+    "assignee_id": 1,
+    "customer_manager_id": 2,
+    "customer_id": 1,
+    "contract_id": null,
+    "status": "new",
+    "description": "Подробное описание прогноза2"
+  }
+]

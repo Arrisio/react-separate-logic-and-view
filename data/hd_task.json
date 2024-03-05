@@ -1,0 +1,22 @@
+[
+    {
+        "id": "TASK0012345",
+        "summary": "Заявка 1 Summary",
+        "description": "Заявка 1 Описание",
+        "company_id": 1,
+        "contract_id": 1,
+        "task_class": "service",
+        "project_id": null,
+        "status": "Назначено"
+    },
+    {
+        "id": "TASK0012346",
+        "summary": "Заявка 2 Summary",
+        "description": "Заявка 2 Описание",
+        "company_id": 1,
+        "contract_id": 2,
+        "task_class": "service",
+        "project_id": 1,
+        "status": "Назначено"
+    }
+]

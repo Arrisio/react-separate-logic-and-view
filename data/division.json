@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Генеральный директор",
+    "parent_division_id": null
+  } ,
+    {
+    "id": 2,
+    "name": "ТЦ",
+    "parent_division_id": 1
+  }
+]

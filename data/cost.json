@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "cost": 100,
+    "skill_id": 1,
+    "ug_id": 1,
+    "currency": "rub",
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  } ,
+  {
+    "id": 2,
+    "cost": 250,
+    "skill_id": 2,
+    "ug_id": 2,
+    "currency": "rub",
+    "date_begin": "2019-07-04T13:33:03.969Z",
+    "date_end": "2022-07-04T13:33:03.969Z"
+  }
+]
